@@ -1,11 +1,11 @@
 {
-    "webVersion":  "0.1.17",
-    "launcherVersion":  "0.1.17",
-    "webUrl":  "https://github.com/corip-sm/goldmanager-distribution/releases/download/v-web.0.1.17-launcher.0.1.17/web.zip",
-    "launcherUrl":  "https://github.com/corip-sm/goldmanager-distribution/releases/download/v-web.0.1.17-launcher.0.1.17/GoldManager.exe",
-    "webSha256":  "21e9865e8223c90b935a1d09fee5f53569e73a6a7d191aeb4f787c8028a01ec9",
-    "launcherSha256":  "cab22d585fb21f7bdf74afcaa2424df1a36b452b7938abfc127d149c325ce7f9",
-    "generatedAt":  "2026-06-29T13:20:35Z",
-    "releaseTag":  "v-web.0.1.17-launcher.0.1.17",
-    "releasePageUrl":  "https://github.com/corip-sm/goldmanager-distribution/releases/tag/v-web.0.1.17-launcher.0.1.17"
+    "webVersion":  "0.1.18",
+    "launcherVersion":  "0.1.18",
+    "webUrl":  "https://github.com/corip-sm/goldmanager-distribution/releases/download/v-web.0.1.18-launcher.0.1.18/web.zip",
+    "launcherUrl":  "https://github.com/corip-sm/goldmanager-distribution/releases/download/v-web.0.1.18-launcher.0.1.18/GoldManager.exe",
+    "webSha256":  "e5ff8e2326b2dd09460ff6b660c3d08f5873cc87457c5269aedea7c4da75a6ca",
+    "launcherSha256":  "622ea70b6aa0cd2bf13ad4e4e9c1e22c2dcf13234f71f4b085aa480722d9ad5c",
+    "generatedAt":  "2026-06-29T13:24:34Z",
+    "releaseTag":  "v-web.0.1.18-launcher.0.1.18",
+    "releasePageUrl":  "https://github.com/corip-sm/goldmanager-distribution/releases/tag/v-web.0.1.18-launcher.0.1.18"
 }
