@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.32",
-    "url":  "https://github.com/corip-sm/goldmanager-distribution/releases/download/v0.1.32/GoldManager.exe",
-    "sha256":  "44bdb8280b21561c1e500153b8c70cbe853e41f0d11c1fef1cbaff57817942e1",
-    "generatedAt":  "2026-07-07T14:24:53Z",
-    "releaseTag":  "v0.1.32",
-    "releasePageUrl":  "https://github.com/corip-sm/goldmanager-distribution/releases/tag/v0.1.32"
+    "version":  "0.1.33",
+    "url":  "https://github.com/corip-sm/goldmanager-distribution/releases/download/v0.1.33/GoldManager.exe",
+    "sha256":  "5cace8fcb7c65a8286acf107390859c4b15da71ba37e9fdd12d2c877269df515",
+    "generatedAt":  "2026-07-07T14:33:27Z",
+    "releaseTag":  "v0.1.33",
+    "releasePageUrl":  "https://github.com/corip-sm/goldmanager-distribution/releases/tag/v0.1.33"
 }
