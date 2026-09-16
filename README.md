@@ -2,18 +2,20 @@
 
 This repository stores only GoldManager release metadata and the packaged launcher binary.
 
-Expected contents:
+Expected manifests:
 
-- `release.json`
-- GitHub Release assets named `GoldManager.exe`
+- `release.json` for 이태리주얼리
+- `editions/pico/release.json` for 피코
+- GitHub Release assets named `GoldManager.exe` or `GoldManager-Pico.exe`
 
-`release.json` currently uses the single-file update format:
+Each manifest uses the single-file update format and includes an `editionId`:
 
 ```json
 {
   "version": "0.1.21",
   "url": "https://github.com/corip-sm/goldmanager-distribution/releases/download/v0.1.21/GoldManager.exe",
-  "sha256": "<sha256>"
+  "sha256": "<sha256>",
+  "editionId": "italy-jewelry"
 }
 ```
 
