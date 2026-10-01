@@ -1,9 +1,9 @@
 {
-    "version":  "0.1.1",
-    "url":  "https://github.com/corip-sm/goldmanager-distribution/releases/download/pico-v0.1.1/GoldManager-Pico.exe",
-    "sha256":  "a6f9acf86c171c0b1769c2c886df668cb47e9bb75b20fcdd00ddd6bf23a385db",
-    "generatedAt":  "2026-10-01T06:04:40Z",
-    "releaseTag":  "pico-v0.1.1",
-    "releasePageUrl":  "https://github.com/corip-sm/goldmanager-distribution/releases/tag/pico-v0.1.1",
+    "version":  "0.1.2",
+    "url":  "https://github.com/corip-sm/goldmanager-distribution/releases/download/pico-v0.1.2/GoldManager-Pico.exe",
+    "sha256":  "a7df3c6667d8da801986a797811f6931dfae374bf61a2e837bdbb96c5538d0c5",
+    "generatedAt":  "2026-10-01T14:50:57Z",
+    "releaseTag":  "pico-v0.1.2",
+    "releasePageUrl":  "https://github.com/corip-sm/goldmanager-distribution/releases/tag/pico-v0.1.2",
     "editionId":  "pico"
 }
